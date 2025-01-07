@@ -89,6 +89,15 @@ aws configure
 bash
 python src/weather_dashboard.py
 
+<img width="681" alt="image" src="https://github.com/user-attachments/assets/c49f8caf-516a-4f73-861e-bb8f1af92b35" />
+
+
+
+##AWS S3 Bucket Showing the Saved Data
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/309d546d-2950-4e55-b2b2-e8bc97e370a8" />
+
+
+
 ## What I Learned
 Setting up and managing AWS S3 buckets.
 Securing API keys and managing environment variables.
