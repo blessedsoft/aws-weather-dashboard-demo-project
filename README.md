@@ -41,8 +41,6 @@ This project is a **Weather Data Collection System** designed to fetch, store, a
 
 ## 📂 Project Structure  
 
-You can clone the project here: https://github.com/blessedsoft/aws-weather-dashboard-demo-project.git
-
 ```plaintext
 weather-dashboard/
   ├── src/
@@ -54,7 +52,7 @@ weather-dashboard/
   ├── .gitignore
   ├── requirements.txt
 
-
+You can clone the project here: https://github.com/blessedsoft/aws-weather-dashboard-demo-project.git
 
 ## ⚙️ Setup Instructions  
 
